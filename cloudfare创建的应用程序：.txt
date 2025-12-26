@@ -1,0 +1,15 @@
+cloudfare创建的应用程序：
+
+Xjlbibi0825@gmail.com's Account
+	1.xjlbibi0825-lindu-1：https://yabaolinbao.dpdns.org/admin        （自用节点）    CM项目
+
+Shangmoya1@gmail.com's Account
+	1.shangmoya1-lindu-2：https://yabaolinbao1.dpdns.org/customer             顾客一                CN项目
+	2.shangmoya1-keji-1：https://shangmoya.de5.net/panel          BPB项目
+	3.shangmoya1-byjoey-pages-2：https://a.yabaolinbao1.dpdns.org/customer             CN项目
+
+
+Shangmo@mffac.com's Account
+	1.shangmo-keji-2：https://a.aiyabao.de5.net/admin （已改）         顾客二  、顾客三   、顾客四            CM项目
+	2.shangmo-byjoey-1：https://a.yabaolinbao2.dpdns.org/customer              CN项目
+	3.shangmo-laowang-2：https://c.linbao.de5.net/?password=admin         佬王项目
